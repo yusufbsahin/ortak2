@@ -1,9 +1,9 @@
 red
 blue
 green
-
-
-
+Green 
+Pink 
+Black
 yellow
 orange
 purple
