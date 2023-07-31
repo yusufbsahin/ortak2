@@ -4,3 +4,6 @@ green
 Green 
 Pink 
 Black
+yellow
+orange
+purple
